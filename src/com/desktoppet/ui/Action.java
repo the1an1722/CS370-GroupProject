@@ -61,7 +61,7 @@ public class Action {
      * @param recoverPath
      * @return
      */
-    public static Action creatTemporaryInterruptableAction(String path, double time, String recoverPath) {
+    public static Action creatTemporaryInterruptible(String path, double time, String recoverPath) {
         return new Action(path, time, true, recoverPath, true);
     }
 
@@ -71,7 +71,7 @@ public class Action {
      * @param path
      * @return
      */
-    public static Action creatContinuousInterruptableAction(String path) {
+    public static Action creatContinuousInterruptible(String path) {
         return new Action(path, PerpetualTime, false, true);
     }
 
@@ -83,18 +83,8 @@ public class Action {
      * @param recoverPath
      * @return
      */
-    public static Action creatTemporaryUninterruptibleAction(String path, double time, String recoverPath) {
+    public static Action creatTemporaryUninterruptible(String path, double time, String recoverPath) {
         return new Action(path, time, true, recoverPath, false);
-    }
-
-    /**
-     * Create continuous, uninterruptible actions
-     *
-     * @param path
-     * @return
-     */
-    public static Action creatContinuousUninterruptibleAction(String path) {
-        return new Action(path, PerpetualTime, false, false);
     }
 
     public double getTime() {
@@ -113,7 +103,7 @@ public class Action {
         return isTemporaryAction;
     }
 
-    public boolean isInterruptable() {
+    public boolean isInterruptible() {
         return interruptable;
     }
 }
