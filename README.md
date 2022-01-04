@@ -123,22 +123,13 @@ background calculations
     5.1 The system shall not process. (Non-functional)
 
     5.2 The user shall be able to hide the desktop pet through the menu or the system tray.. (Functional)
-
-    \1. User right click the application once5.3 The user shall be able to show the desktop pet from the system tray. (Functional)
-
-
+    
+    5.3 The user shall be able to show the desktop pet from the system tray. (Functional)
 
 
 
 
 
-
-
-
-
-#
-#
-#
 #
 # **Use cases and the use case diagrams** 
 
@@ -162,20 +153,15 @@ left mouse button on the application.
 **Steps of execution:** 
 
 1. User holds the left click on the application
-1. Move the application around the desktop
+
+2. Move the application around the desktop
 
 2A. The application is offscreen after moving around
 
 **Extensions:**
 
 1. The application prompted a greeting and farewell when it started and closed.
-1. The application executes drag animation when it is moved around.
-
-
-
-
-
-
+2. The application executes drag animation when it is moved around.
 
 
 
@@ -200,21 +186,16 @@ left mouse button on the application.
 **Steps of execution:** 
 
 1. User right click the application
-1. User selects feed option from the list
-1. User selects the food from the pop-up menu 
+
+2. User selects feed option from the list
+
+3. User selects the food from the pop-up menu 
 
 **Extensions:**
 
 1. Users can see the gauge value.
-1. The application has a friendship gauge and processes different animations based on the friendship level.
 
-
-
-
-
-
-
-
+2. The application has a friendship gauge and processes different animations based on the friendship level.
 
 
 
@@ -235,27 +216,19 @@ left mouse button on the application.
 
 **Steps of execution:** 
 
-\1. User right click the application once
+1. User right click the application once
 
 2. Application selects the option from the list.
 
-2A. The option is not selectable for the user.
+       2.1 The option is not selectable for the user.
 
-\3. The application plays the bathing animation. 
+3. The application plays the bathing animation. 
 
 **Extensions**:
 
-\1. The application plays different animations based on the friendship level. 
+1. The application plays different animations based on the friendship level. 
 
-\2. The application has a friendship level.
-
-
-
-
-
-
-
-
+2. The application has a friendship level.
 
 
 
@@ -280,24 +253,13 @@ left mouse button on the application.
 **Steps of execution:** 
 
 1. User right click the application once
-1. User selects the calculator option from the list.
-1. The calculator window pops up for user
+2. User selects the calculator option from the list.
+3. The calculator window pops up for user
 
 **Extensions**:
 
 1. More operation is added in the calculator
-1. More tools are added into the menu.
-
-
-
-
-
-
-
-
-
-
-
+2. More tools are added into the menu.
 
 
 
@@ -318,23 +280,23 @@ left mouse button on the application.
 
 **Steps of execution:** 
 
-\1. User right click the application once
+1. User right click the application once
 
-\2. User selects the hide option.
+2. User selects the hide option.
 
-\3. The application disappears from the window
+3. The application disappears from the window
 
-3A. The application didn’t disappear
+       3.1 The application didn’t disappear
 
-\4. User selects the show from the tray. 
+4. User selects the show from the tray. 
 
-\5. The application shows up on the window
+5. The application shows up on the window
 
-5A. The application fails to show up.
+       5.1 The application fails to show up.
 
 **Extensions**:
 
-\1. The application will halt every process when it is in hidden status.
+1. The application will halt every process when it is in hidden status.
 
 
 
@@ -342,10 +304,12 @@ left mouse button on the application.
 **Assignment#2 GUI and Architectural Design**
 # **User Interface Design** 
 
-\1. Pet UI: 
+1. Pet UI: 
+
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.004.png)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 004](https://user-images.githubusercontent.com/60747086/148118422-c591ceaf-7c73-494e-97ed-62bc18630198.png)
+
 2a. We plan to make a more complete desktop pet, imitating the original electronic pet's hunger, health, mood, gold coin system, learning and growth system, adding mana to the background of the drama, movie, etc., and so on. In the end, it was made into an installable C/S architecture game, so that people who like to keep pets but can’t own pets can also have pets.
 
 
@@ -353,6 +317,7 @@ left mouse button on the application.
 
 
 # **Architectural Design**
+
 2c. Layer Model:
 
 
@@ -360,20 +325,8 @@ left mouse button on the application.
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 005](https://user-images.githubusercontent.com/60747086/148118365-e2043473-28cb-415b-a56d-c0ed7a78c283.jpeg)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 2c. UI Design:
+
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.006.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 006](https://user-images.githubusercontent.com/60747086/148118396-9359e1ab-b59a-480f-bf6d-7e2dfec4ce0e.jpeg)
@@ -396,7 +349,7 @@ left mouse button on the application.
 
 **Assignment#3 System models and class design**
 # **Relational Database schema**
-\1. Due to the fact that our program can be executed locally, it can be operated without networking, so there is no need for database operations
+1. Since our program can be executed locally, it can be operated without networking, so there is no need for database operations
 
 # **Structural modeling**
 2a. Class Diagram and Definition:
@@ -409,16 +362,13 @@ left mouse button on the application.
 
 
 
-
-
-
-
 2a. Generalization Hierarchies:
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.008.png)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 008](https://user-images.githubusercontent.com/60747086/148118291-409331c4-f5f3-4808-ac9a-999aff18e488.png)
-2a. Aggregation associations:![Diagram
 
+
+2a. Aggregation associations:![Diagram
 Description automatically generated](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.009.png)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 009](https://user-images.githubusercontent.com/60747086/148120107-cd933a85-3228-4f80-b875-91b672d941e5.png)
 
