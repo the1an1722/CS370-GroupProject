@@ -259,7 +259,6 @@ left mouse button on the application.
 
 
 
-
 **Use Case for 5.**
 
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 003](https://user-images.githubusercontent.com/60747086/148118459-502483b4-292a-4a28-8030-738d9ba43aca.jpeg)
@@ -330,10 +329,6 @@ left mouse button on the application.
 - Calculator tab opens the application on the pet window.
 
 
-
-
-
-
 **Assignment#3 System models and class design**
 # **Relational Database schema**
 1. Since our program can be executed locally, it can be operated without networking, so there is no need for database operations
@@ -380,11 +375,13 @@ left mouse button on the application.
 
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 012](https://user-images.githubusercontent.com/60747086/148120035-4820b042-bc46-40e6-ade0-3f0caf1283de.jpeg)
 
-1.The user right clicks on the desktop pet.
+1. The user right clicks on the desktop pet.
 
-2.When the menu is shown, the user can select one bath item from the bath list to bath the desktop pet.
+2. When the menu is shown, the user can select one bath item from the bath list to bath the desktop pet.
+
 
 3. The desktop pet will gain its cleanliness after feeding. 
+
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 013](https://user-images.githubusercontent.com/60747086/148119914-53518148-9698-4f50-854e-d651be4354f3.jpeg)
 
 1. The user right clicks on the desktop pet.
@@ -395,7 +392,7 @@ left mouse button on the application.
 
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 014](https://user-images.githubusercontent.com/60747086/148119865-c2f379d8-224f-4c89-b817-025b865b1cec.jpeg)
 
-1.There are two ways to hide the desktop pet (shown in the “alt” box). One way is to right click on the desktop pet to get the menu list and select the hide or select the hide from the system tray.
+1. There are two ways to hide the desktop pet (shown in the “alt” box). One way is to right click on the desktop pet to get the menu list and select the hide or select the hide from the system tray.
 
 2. User can also select the show from the system tray (shown in second “alt” box)
 
@@ -553,9 +550,7 @@ Completion Criteria: Each of them is verified successfully that could be accepta
 **External software packages/libraries and irrolesinthedevelopmentofthe system:**  JDK 8
 
 
-
-# **Screen shots of GUIs**
-**				
+# **Screen shots of GUIs**			
 
 Food Stock UI:
 `	`
@@ -564,7 +559,6 @@ Food Stock UI:
 
 Bath Stock UI:
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 017](https://user-images.githubusercontent.com/60747086/148119659-782cfa3d-00bb-4938-88be-76f0680deb4e.png)
-
 
 Calculator UI:	
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 018](https://user-images.githubusercontent.com/60747086/148119625-d553ac67-07b4-4e53-9d37-6d1b20cbf64d.png)
@@ -596,7 +590,6 @@ We are not using a database to store data, so we are not associated with the dat
 - When the user clicks to exit, the pet will play a farewell action and feedback information to the user, and then exit the program.
 - There are also functions of hiding, showing and exiting in the system tray. These functions are the same as above.
 - There is self-talk in the system tray. When the user turns it on, the pet will randomly send messages to the user
-
 
 
 # **Planning for Version 2.0**
