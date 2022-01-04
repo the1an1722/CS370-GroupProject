@@ -1,5 +1,5 @@
-# CS370-GroupProject
-Desktop Pet
+# CS370-GroupProject - Desktop Pet
+
 Course: CSCI 370 Software Engineering
 
 Instructor: Professor Chia-Ling Tsai 
