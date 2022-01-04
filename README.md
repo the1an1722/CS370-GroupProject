@@ -83,45 +83,48 @@ background calculations
 **System tray -** miniature icons located in the windows taskbar, at the bottom right corner of the computer screen.
 # **Requirement document** 
 1. The user shall move the desktop pet around the desktop.
-1-1. The user shall move the desktop pet with the mouse. (Functional)
-1-2. The system shall stay at the position that the user provides. (Functional)
-1-3. The system shall execute immediately after user input. (Non-functional)
+
+    1.1 The user shall move the desktop pet with the mouse. (Functional)
+
+    1.2 The system shall stay at the position that the user provides. (Functional)
+
+    1.3 The system shall execute immediately after user input. (Non-functional)
 
 2. The user shall be able to feed the desktop pet.
+
+    2.1 The user shall have item options to feed the desktop pet. (Functional)
+
+    2.2 The user shall be able to see the images of food items in the feed menu. (Functional)
+
+    2.3 The system shall respond with eating frames immediately after user request. (Non- functional)
+
+    2.4 The system shall prompt the status to the user after the feeding. (Functional)
+
 3. The user shall be able to bathe the desktop pet.
+
+    3.1 The user shall have item options to bath the desktop pet. (Functional)
+
+    3.2 The user shall be able to see the images of bath items in the bath menu. (Functional)
+
+    3.3 The system shall respond with bathing frames immediately after user request. (Non- functional)
+
+    3.4 The system shall prompt the status to the user after the bathing. (Functional)
+    
 4. The user shall be able to access the utility tool from the desktop pet (like a calculator).
+
+    4.1 The user shall be able to select the utility tool by mouse. (Functional)
+
+    4.2 The user shall be able to easily navigate the tool. (Non-functional)
+
+    4.3 The system shall provide the tool the user needs after the request. (Non-functional)
+
 5. The user shall hide/show the desktop pet.
 
+    5.1 The system shall not process. (Non-functional)
 
+    5.2 The user shall be able to hide the desktop pet through the menu or the system tray.. (Functional)
 
-
-2.1 The user shall have item options to feed the desktop pet. (Functional)
-
-2.2 The user shall be able to see the images of food items in the feed menu. (Functional)
-
-2.3 The system shall respond with eating frames immediately after user request. (Non- functional)
-
-2.4 The system shall prompt the status to the user after the feeding. (Functional)
-
-3.1 The user shall have item options to bath the desktop pet. (Functional)
-
-3.2 The user shall be able to see the images of bath items in the bath menu. (Functional)
-
-3.3 The system shall respond with bathing frames immediately after user request. (Non- functional)
-
-3.4 The system shall prompt the status to the user after the bathing. (Functional)
-
-4.1 The user shall be able to select the utility tool by mouse. (Functional)
-
-4.2 The user shall be able to easily navigate the tool. (Non-functional)
-
-4.3 The system shall provide the tool the user needs after the request. (Non-functional)
-
-5.1 The system shall not process. (Non-functional)
-
-5.2 The user shall be able to hide the desktop pet through the menu or the system tray.. (Functional)
-
-5.3 The user shall be able to show the desktop pet from the system tray. (Functional)
+    \1. User right click the application once5.3 The user shall be able to show the desktop pet from the system tray. (Functional)
 
 
 
@@ -417,6 +420,7 @@ left mouse button on the application.
 2a. Aggregation associations:![Diagram
 
 Description automatically generated](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.009.png)
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 009](https://user-images.githubusercontent.com/60747086/148120107-cd933a85-3228-4f80-b875-91b672d941e5.png)
 
 
 
@@ -450,19 +454,19 @@ Description automatically generated](Aspose.Words.01de2569-846a-4721-b5c5-d8374d
 \3. The desktop pet will gain its stamina after feeding.  
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.012.jpeg)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 012](https://user-images.githubusercontent.com/60747086/148120035-4820b042-bc46-40e6-ade0-3f0caf1283de.jpeg)
 1.The user right clicks on the desktop pet.
 
 2.When the menu is shown, the user can select one bath item from the bath list to bath the desktop pet.
 
 \3. The desktop pet will gain its cleanliness after feeding.  ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.013.jpeg)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 013](https://user-images.githubusercontent.com/60747086/148119914-53518148-9698-4f50-854e-d651be4354f3.jpeg)
 1.The user right clicks on the desktop pet.
 
 2.When the menu is shown, the user can select the calculator and calculate with given math operations.
 
 \3. There are 2 types of answers (as shown in the “alt box”). The answer can be a mathematical answer or computation error. ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.014.jpeg)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 014](https://user-images.githubusercontent.com/60747086/148119865-c2f379d8-224f-4c89-b817-025b865b1cec.jpeg)
 1.There are 2 ways to hide the desktop pet (shown in the “alt” box). One way is to right click on the desktop pet to get the menu list and select the hide or select the hide from the system tray.
 
 \2. User can also select the show from the system tray(shown in second “alt” box)
@@ -635,22 +639,24 @@ Completion Criteria: Each of them is verified successfully that could be accepta
 
 Food Stock UI:**	 				
 
-`	`**![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.015.png)		![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.016.png)**
-
+`	`**![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.015.png)		
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 015](https://user-images.githubusercontent.com/60747086/148119703-80a2efdd-58e2-474b-8c5e-8616c27608c4.png)
+![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.016.png)**
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 016](https://user-images.githubusercontent.com/60747086/148119821-32d8ca67-ecdf-4815-8aa2-3385796fc4ae.png)
 Bath Stock UI:
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.017.png)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 017](https://user-images.githubusercontent.com/60747086/148119659-782cfa3d-00bb-4938-88be-76f0680deb4e.png)
 
 
 Calculator UI:**		
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.018.png)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 018](https://user-images.githubusercontent.com/60747086/148119625-d553ac67-07b4-4e53-9d37-6d1b20cbf64d.png)
 System Tray UI:
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.019.png)**			
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 019](https://user-images.githubusercontent.com/60747086/148119609-723fe13e-7aa6-427b-9417-bfeae9808bdb.png)
 # **Data description** 
 We are not using a database to store data, so we are not associated with the data
 
