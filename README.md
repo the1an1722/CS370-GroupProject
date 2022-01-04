@@ -141,6 +141,7 @@ background calculations
 **Use Case for 1.**
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.001.jpeg)
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 001](https://user-images.githubusercontent.com/60747086/148117753-7a2128f1-54f9-445c-91e0-f343c63dd870.jpeg)
 
 **Description**: The application will move around on the desktop if the user clicks and holds the 
 
