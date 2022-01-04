@@ -526,6 +526,8 @@ the desktop ranges
 Expected output: Desktop pet rejects the request if the position is fully outside of the desktop range
 
 
+
+#		
 Function: feed ()
 
 Class: Desktop pet
@@ -537,6 +539,7 @@ Expected output: Desktop pet’s hunger and fatigue value change if value is wit
 Expected output: Desktop pet rejects if the value will pass the limit
 
 Expected output: Desktop pet will idle if it never receives.
+
 
 
 Function: Hide() & Show()
@@ -561,6 +564,9 @@ Expected output: Desktop pet rejects if the value will pass the limit
 
 Expected output: Desktop pet will idle if it never receives.
 
+
+
+
 Function: Calculator() & Computing()
 
 Class: Calculator
@@ -570,6 +576,9 @@ Input: Selection list
 Expected output: The calculator will calculate the algorithm entered by the user
 
 Expected output: The format for output number is double
+
+
+
 
 Function: Exit()
 
@@ -643,6 +652,7 @@ Food Stock UI:**
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 015](https://user-images.githubusercontent.com/60747086/148119703-80a2efdd-58e2-474b-8c5e-8616c27608c4.png)
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.016.png)**
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 016](https://user-images.githubusercontent.com/60747086/148119821-32d8ca67-ecdf-4815-8aa2-3385796fc4ae.png)
+
 Bath Stock UI:
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.017.png)
@@ -653,6 +663,7 @@ Calculator UI:**
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.018.png)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 018](https://user-images.githubusercontent.com/60747086/148119625-d553ac67-07b4-4e53-9d37-6d1b20cbf64d.png)
+
 System Tray UI:
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.019.png)**			
