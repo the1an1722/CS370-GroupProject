@@ -179,6 +179,7 @@ left mouse button on the application.
 **Use case for 2.**
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.002.jpeg)
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 002](https://user-images.githubusercontent.com/60747086/148118010-9ce306b6-5f29-46c6-9f3f-d778388da3b1.jpeg)
 
 **Description:** The application allows the user to feed the desktop pet with different food options. The application will prompt a selection menu for the user to pick.
 
@@ -216,6 +217,7 @@ left mouse button on the application.
 **Use Case for 3.**
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.002.jpeg)
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 002](https://user-images.githubusercontent.com/60747086/148118010-9ce306b6-5f29-46c6-9f3f-d778388da3b1.jpeg)
 
 **Description**: User is able to bathe the desktop pet with the option to select. The application will respond to the user with bathing frames.
 
@@ -259,6 +261,7 @@ left mouse button on the application.
 **Use Case for 4.**
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.002.jpeg)
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 002](https://user-images.githubusercontent.com/60747086/148118010-9ce306b6-5f29-46c6-9f3f-d778388da3b1.jpeg)
 
 **Description**: The application will pop up a calculator window after the user's request. 
 
@@ -298,7 +301,7 @@ left mouse button on the application.
 **Use Case for 5.**
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.003.jpeg)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 003](https://user-images.githubusercontent.com/60747086/148118459-502483b4-292a-4a28-8030-738d9ba43aca.jpeg)
 **Description**: User is able to hide or show the application through the right click menu or tray.
 
 **Trigger**: User selection from the option list or tray.
@@ -338,7 +341,7 @@ left mouse button on the application.
 \1. Pet UI: 
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.004.png)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 004](https://user-images.githubusercontent.com/60747086/148118422-c591ceaf-7c73-494e-97ed-62bc18630198.png)
 2a. We plan to make a more complete desktop pet, imitating the original electronic pet's hunger, health, mood, gold coin system, learning and growth system, adding mana to the background of the drama, movie, etc., and so on. In the end, it was made into an installable C/S architecture game, so that people who like to keep pets but can’t own pets can also have pets.
 
 
@@ -350,7 +353,7 @@ left mouse button on the application.
 
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.005.jpeg)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 005](https://user-images.githubusercontent.com/60747086/148118365-e2043473-28cb-415b-a56d-c0ed7a78c283.jpeg)
 
 
 
@@ -369,7 +372,7 @@ left mouse button on the application.
 2c. UI Design:
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.006.jpeg)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 006](https://user-images.githubusercontent.com/60747086/148118396-9359e1ab-b59a-480f-bf6d-7e2dfec4ce0e.jpeg)
 - The Header has ‘Exit’, ‘Minimize’, and ‘Hide’ along with the name of the Desktop Pet.
 - The speaking setting is a tab that displays the list of messages owned by the pet-the pet will randomly display the content of the speaking
 - Show and hide can change the settings of desktop pets, for example
@@ -395,7 +398,7 @@ left mouse button on the application.
 2a. Class Diagram and Definition:
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.007.png)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 007](https://user-images.githubusercontent.com/60747086/148118323-803003b8-2db3-4e5b-8c1a-9a690cdc19bd.png)
 
 
 
@@ -409,7 +412,7 @@ left mouse button on the application.
 2a. Generalization Hierarchies:
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.008.png)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 008](https://user-images.githubusercontent.com/60747086/148118291-409331c4-f5f3-4808-ac9a-999aff18e488.png)
 2a. Aggregation associations:![Diagram
 
 Description automatically generated](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.009.png)
@@ -433,11 +436,12 @@ Description automatically generated](Aspose.Words.01de2569-846a-4721-b5c5-d8374d
 **Sequence Diagram:**
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.010.jpeg)
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 010](https://user-images.githubusercontent.com/60747086/148118185-a15461a5-8b86-49fa-844e-29a29d1934bd.jpeg)
 
 1.User drags the desktop pet on the window screen.
 
 2.The application will stay at the location.![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.011.jpeg)
-
+![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 011](https://user-images.githubusercontent.com/60747086/148118214-d22ac998-f3c6-48b6-922b-a588e7ab452c.jpeg)
 .1.The user right clicks on the desktop pet.
 
 2.When the menu is shown, the user can select one food item from the food list to eat
