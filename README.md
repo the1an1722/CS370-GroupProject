@@ -368,8 +368,9 @@ left mouse button on the application.
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 008](https://user-images.githubusercontent.com/60747086/148118291-409331c4-f5f3-4808-ac9a-999aff18e488.png)
 
 
-2a. Aggregation associations:![Diagram
-Description automatically generated](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.009.png)
+2a. Aggregation associations:
+
+
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 009](https://user-images.githubusercontent.com/60747086/148120107-cd933a85-3228-4f80-b875-91b672d941e5.png)
 
 
@@ -398,11 +399,12 @@ Description automatically generated](Aspose.Words.01de2569-846a-4721-b5c5-d8374d
 2.The application will stay at the location.![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.011.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 011](https://user-images.githubusercontent.com/60747086/148118214-d22ac998-f3c6-48b6-922b-a588e7ab452c.jpeg)
 
-1.The user right clicks on the desktop pet.
+1. The user right clicks on the desktop pet.
 
-2.When the menu is shown, the user can select one food item from the food list to eat
+2. When the menu is shown, the user can select one food item from the food list to eat
 
 3. The desktop pet will gain its stamina after feeding.  
+
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.012.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 012](https://user-images.githubusercontent.com/60747086/148120035-4820b042-bc46-40e6-ade0-3f0caf1283de.jpeg)
@@ -419,6 +421,7 @@ Description automatically generated](Aspose.Words.01de2569-846a-4721-b5c5-d8374d
 2.When the menu is shown, the user can select the calculator and calculate with given math operations.
 
 3. There are two types of answers (as shown in the “alt box”). The answer can be a mathematical answer or computation error. ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.014.jpeg)
+4. 
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 014](https://user-images.githubusercontent.com/60747086/148119865-c2f379d8-224f-4c89-b817-025b865b1cec.jpeg)
 
 1.There are two ways to hide the desktop pet (shown in the “alt” box). One way is to right click on the desktop pet to get the menu list and select the hide or select the hide from the system tray.
