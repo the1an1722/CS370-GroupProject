@@ -541,7 +541,7 @@ Expected output: Desktop pet rejects if the value will pass the limit
 Expected output: Desktop pet will idle if it never receives.
 
 
-
+#
 Function: Hide() & Show()
 
 Class: Desktop pet
@@ -551,7 +551,7 @@ Input: Selection list
 Expected output: Desktop pets will be displayed or hidden according to the user's choice
 
 
-
+#
 Function: bath ()
 
 Class: Desktop pet
@@ -565,8 +565,7 @@ Expected output: Desktop pet rejects if the value will pass the limit
 Expected output: Desktop pet will idle if it never receives.
 
 
-
-
+#
 Function: Calculator() & Computing()
 
 Class: Calculator
@@ -578,8 +577,7 @@ Expected output: The calculator will calculate the algorithm entered by the user
 Expected output: The format for output number is double
 
 
-
-
+#
 Function: Exit()
 
 Class: Desktop Pet
