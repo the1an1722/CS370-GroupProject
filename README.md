@@ -83,16 +83,16 @@ background calculations
 **System tray -** miniature icons located in the windows taskbar, at the bottom right corner of the computer screen.
 # **Requirement document** 
 1. The user shall move the desktop pet around the desktop.
-1. The user shall be able to feed the desktop pet.
-1. The user shall be able to bathe the desktop pet.
-1. The user shall be able to access the utility tool from the desktop pet (like a calculator).
-1. The user shall hide/show the desktop pet.
+  1-1. The user shall move the desktop pet with the mouse. (Functional)
+  1-2. The system shall stay at the position that the user provides. (Functional)
+  1-3. The system shall execute immediately after user input. (Non-functional)
+2. The user shall be able to feed the desktop pet.
+3. The user shall be able to bathe the desktop pet.
+4. The user shall be able to access the utility tool from the desktop pet (like a calculator).
+5. The user shall hide/show the desktop pet.
 
 
 
-1. The user shall move the desktop pet with the mouse. (Functional)
-1. The system shall stay at the position that the user provides. (Functional)
-1. The system shall execute immediately after user input. (Non-functional)
 
 2.1 The user shall have item options to feed the desktop pet. (Functional)
 
