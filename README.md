@@ -234,7 +234,6 @@ left mouse button on the application.
 
 **Use Case for 4.**
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.002.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 002](https://user-images.githubusercontent.com/60747086/148118010-9ce306b6-5f29-46c6-9f3f-d778388da3b1.jpeg)
 
 **Description**: The application will pop up a calculator window after the user's request. 
@@ -263,7 +262,6 @@ left mouse button on the application.
 
 **Use Case for 5.**
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.003.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 003](https://user-images.githubusercontent.com/60747086/148118459-502483b4-292a-4a28-8030-738d9ba43aca.jpeg)
 **Description**: User is able to hide or show the application through the right click menu or tray.
 
@@ -304,7 +302,6 @@ left mouse button on the application.
 1. Pet UI: 
 
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.004.png)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 004](https://user-images.githubusercontent.com/60747086/148118422-c591ceaf-7c73-494e-97ed-62bc18630198.png)
 
 2a. We plan to make a more complete desktop pet, imitating the original electronic pet's hunger, health, mood, gold coin system, learning and growth system, adding mana to the background of the drama, movie, etc., and so on. In the end, it was made into an installable C/S architecture game, so that people who like to keep pets but can’t own pets can also have pets.
@@ -318,14 +315,12 @@ left mouse button on the application.
 2c. Layer Model:
 
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.005.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 005](https://user-images.githubusercontent.com/60747086/148118365-e2043473-28cb-415b-a56d-c0ed7a78c283.jpeg)
 
 
 2c. UI Design:
 
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.006.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 006](https://user-images.githubusercontent.com/60747086/148118396-9359e1ab-b59a-480f-bf6d-7e2dfec4ce0e.jpeg)
 - The Header has ‘Exit’, ‘Minimize’, and ‘Hide’ along with the name of the Desktop Pet.
 - The speaking setting is a tab that displays the list of messages owned by the pet-the pet will randomly display the content of the speaking
@@ -339,11 +334,6 @@ left mouse button on the application.
 
 
 
-
-
-
-
-
 **Assignment#3 System models and class design**
 # **Relational Database schema**
 1. Since our program can be executed locally, it can be operated without networking, so there is no need for database operations
@@ -351,17 +341,13 @@ left mouse button on the application.
 # **Structural modeling**
 2a. Class Diagram and Definition:
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.007.png)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 007](https://user-images.githubusercontent.com/60747086/148118323-803003b8-2db3-4e5b-8c1a-9a690cdc19bd.png)
-
-
 
 
 
 
 2a. Generalization Hierarchies:
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.008.png)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 008](https://user-images.githubusercontent.com/60747086/148118291-409331c4-f5f3-4808-ac9a-999aff18e488.png)
 
 
@@ -373,18 +359,15 @@ left mouse button on the application.
 
 
 
-
-
 #
 # **Interaction modeling**
 **Sequence Diagram:**
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.010.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 010](https://user-images.githubusercontent.com/60747086/148118185-a15461a5-8b86-49fa-844e-29a29d1934bd.jpeg)
 
 1.User drags the desktop pet on the window screen.
 
-2.The application will stay at the location.![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.011.jpeg)
+2.The application will stay at the location.
 
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 011](https://user-images.githubusercontent.com/60747086/148118214-d22ac998-f3c6-48b6-922b-a588e7ab452c.jpeg)
 
@@ -395,22 +378,21 @@ left mouse button on the application.
 3. The desktop pet will gain its stamina after feeding.  
 
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.012.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 012](https://user-images.githubusercontent.com/60747086/148120035-4820b042-bc46-40e6-ade0-3f0caf1283de.jpeg)
 
 1.The user right clicks on the desktop pet.
 
 2.When the menu is shown, the user can select one bath item from the bath list to bath the desktop pet.
 
-3. The desktop pet will gain its cleanliness after feeding.  ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.013.jpeg)
+3. The desktop pet will gain its cleanliness after feeding. 
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 013](https://user-images.githubusercontent.com/60747086/148119914-53518148-9698-4f50-854e-d651be4354f3.jpeg)
 
-1.The user right clicks on the desktop pet.
+1. The user right clicks on the desktop pet.
 
-2.When the menu is shown, the user can select the calculator and calculate with given math operations.
+2. When the menu is shown, the user can select the calculator and calculate with given math operations.
 
-3. There are two types of answers (as shown in the “alt box”). The answer can be a mathematical answer or computation error. ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.014.jpeg)
-4. 
+3. There are two types of answers (as shown in the “alt box”). The answer can be a mathematical answer or computation error. 
+
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 014](https://user-images.githubusercontent.com/60747086/148119865-c2f379d8-224f-4c89-b817-025b865b1cec.jpeg)
 
 1.There are two ways to hide the desktop pet (shown in the “alt” box). One way is to right click on the desktop pet to get the menu list and select the hide or select the hide from the system tray.
@@ -441,11 +423,6 @@ left mouse button on the application.
 1. Open the App right away after the user requests
 1. Feeding
 1. Show the message that alert the user where is the desktop pet when the user uses another program
-
-
-
-
-
 
 
 
@@ -551,10 +528,6 @@ Completion Criteria: Each of them is verified successfully that could be accepta
 
 
 
-
-
-
-
 # ***Test Case*:**
 **Description:** This test case simulates one of the actions that the desktop pet would perform each time when the user starts the application. The user can modify the setting of this pet.
 
@@ -584,28 +557,21 @@ Completion Criteria: Each of them is verified successfully that could be accepta
 # **Screen shots of GUIs**
 **				
 
-Food Stock UI:**	 				
-
-`	`**![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.015.png)		
+Food Stock UI:
+`	`
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 015](https://user-images.githubusercontent.com/60747086/148119703-80a2efdd-58e2-474b-8c5e-8616c27608c4.png)
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.016.png)**
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 016](https://user-images.githubusercontent.com/60747086/148119821-32d8ca67-ecdf-4815-8aa2-3385796fc4ae.png)
 
 Bath Stock UI:
-
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.017.png)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 017](https://user-images.githubusercontent.com/60747086/148119659-782cfa3d-00bb-4938-88be-76f0680deb4e.png)
 
 
-Calculator UI:**		
-
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.018.png)
+Calculator UI:	
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 018](https://user-images.githubusercontent.com/60747086/148119625-d553ac67-07b4-4e53-9d37-6d1b20cbf64d.png)
 
-System Tray UI:
-
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.019.png)**			
+System Tray UI:		
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 019](https://user-images.githubusercontent.com/60747086/148119609-723fe13e-7aa6-427b-9417-bfeae9808bdb.png)
+
 # **Data description** 
 We are not using a database to store data, so we are not associated with the data
 
