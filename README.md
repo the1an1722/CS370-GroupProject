@@ -447,38 +447,36 @@ Description automatically generated](Aspose.Words.01de2569-846a-4721-b5c5-d8374d
 
 2.The application will stay at the location.![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.011.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 011](https://user-images.githubusercontent.com/60747086/148118214-d22ac998-f3c6-48b6-922b-a588e7ab452c.jpeg)
-.1.The user right clicks on the desktop pet.
+
+1.The user right clicks on the desktop pet.
 
 2.When the menu is shown, the user can select one food item from the food list to eat
 
-\3. The desktop pet will gain its stamina after feeding.  
+3. The desktop pet will gain its stamina after feeding.  
 
 ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.012.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 012](https://user-images.githubusercontent.com/60747086/148120035-4820b042-bc46-40e6-ade0-3f0caf1283de.jpeg)
+
 1.The user right clicks on the desktop pet.
 
 2.When the menu is shown, the user can select one bath item from the bath list to bath the desktop pet.
 
-\3. The desktop pet will gain its cleanliness after feeding.  ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.013.jpeg)
+3. The desktop pet will gain its cleanliness after feeding.  ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.013.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 013](https://user-images.githubusercontent.com/60747086/148119914-53518148-9698-4f50-854e-d651be4354f3.jpeg)
+
 1.The user right clicks on the desktop pet.
 
 2.When the menu is shown, the user can select the calculator and calculate with given math operations.
 
-\3. There are 2 types of answers (as shown in the “alt box”). The answer can be a mathematical answer or computation error. ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.014.jpeg)
+3. There are two types of answers (as shown in the “alt box”). The answer can be a mathematical answer or computation error. ![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.014.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 014](https://user-images.githubusercontent.com/60747086/148119865-c2f379d8-224f-4c89-b817-025b865b1cec.jpeg)
-1.There are 2 ways to hide the desktop pet (shown in the “alt” box). One way is to right click on the desktop pet to get the menu list and select the hide or select the hide from the system tray.
 
-\2. User can also select the show from the system tray(shown in second “alt” box)
+1.There are two ways to hide the desktop pet (shown in the “alt” box). One way is to right click on the desktop pet to get the menu list and select the hide or select the hide from the system tray.
+
+2. User can also select the show from the system tray (shown in second “alt” box)
 
 
 
-**		 	 	 		
-**
-
-**
-
-**
 
 # **						 							
 
@@ -586,7 +584,7 @@ Input: Selection list
 
 Expected output: Desktop pets will exit according to the user's choice
 
-
+#
 **Test Strategies:**
 
 Test Objective: Ensure the proper application (calculator to be processed)
