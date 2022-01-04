@@ -135,7 +135,6 @@ background calculations
 
 **Use Case for 1.**
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.001.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 001](https://user-images.githubusercontent.com/60747086/148117753-7a2128f1-54f9-445c-91e0-f343c63dd870.jpeg)
 
 **Description**: The application will move around on the desktop if the user clicks and holds the 
@@ -168,7 +167,6 @@ left mouse button on the application.
 
 **Use case for 2.**
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.002.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 002](https://user-images.githubusercontent.com/60747086/148118010-9ce306b6-5f29-46c6-9f3f-d778388da3b1.jpeg)
 
 **Description:** The application allows the user to feed the desktop pet with different food options. The application will prompt a selection menu for the user to pick.
@@ -201,7 +199,6 @@ left mouse button on the application.
 
 **Use Case for 3.**
 
-![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.002.jpeg)
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 002](https://user-images.githubusercontent.com/60747086/148118010-9ce306b6-5f29-46c6-9f3f-d778388da3b1.jpeg)
 
 **Description**: User is able to bathe the desktop pet with the option to select. The application will respond to the user with bathing frames.
