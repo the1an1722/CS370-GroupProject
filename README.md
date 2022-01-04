@@ -1,4 +1,4 @@
-# CS370-GroupProject - Desktop Pet
+# Desktop Pet
 
 Course: CSCI 370 Software Engineering
 
