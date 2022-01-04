@@ -1,6 +1,7 @@
 package com.desktoppet.image;
 
 import javafx.scene.image.Image;
+
 import java.util.Map;
 import java.util.Objects;
 import java.util.WeakHashMap;

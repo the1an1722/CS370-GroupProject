@@ -4,7 +4,9 @@ package com.desktoppet.calculator;
  *
  * @author Bingming Zhang
  */
-import java.util.*;
+
+import java.util.Deque;
+import java.util.LinkedList;
 public class Comp {
 
 	private Deque<Character> operation = new LinkedList<Character>();

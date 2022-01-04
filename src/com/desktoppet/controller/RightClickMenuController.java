@@ -1,8 +1,7 @@
 package com.desktoppet.controller;
 
 import com.desktoppet.HelloPetApplication;
-import com.desktoppet.calculator.*;
-
+import com.desktoppet.calculator.Calc;
 import com.desktoppet.ui.Interfaces;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -11,6 +10,7 @@ import javafx.scene.Scene;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+
 import java.io.IOException;
 import java.util.Objects;
 /**
