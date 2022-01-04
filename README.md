@@ -378,15 +378,6 @@ left mouse button on the application.
 
 
 
-
-
-
-
-
-
-
-
-
 #
 # **Interaction modeling**
 **Sequence Diagram:**
@@ -397,6 +388,7 @@ left mouse button on the application.
 1.User drags the desktop pet on the window screen.
 
 2.The application will stay at the location.![](Aspose.Words.01de2569-846a-4721-b5c5-d8374de83acd.011.jpeg)
+
 ![Aspose Words 01de2569-846a-4721-b5c5-d8374de83acd 011](https://user-images.githubusercontent.com/60747086/148118214-d22ac998-f3c6-48b6-922b-a588e7ab452c.jpeg)
 
 1. The user right clicks on the desktop pet.
